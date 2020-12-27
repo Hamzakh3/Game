@@ -90,40 +90,7 @@ const clouds = [
             iterations: Infinity,
         }
     },
-    // {
-    //     id:'bar2',
-    //     frame: [
-    //         { transform: 'translateX(10px)', opacity: 1 },
-    //         { transform: 'translateX(-100vw)', opacity: 1 },
-    //     ],
-    //     timing: {
-    //         duration: 16000,
-    //         iterations: Infinity,
-    //     }
-    // },
-    // {
-    //     id:'bar3',
-    //     frame: [
-    //         { transform: 'translateX(10px)', opacity: 1 },
-    //         { transform: 'translateX(-100vw)', opacity: 1 },
-    //     ],
-    //     timing: {
-    //         duration: 6000,
-    //         iterations: Infinity,
-    //     }
-    // }
-]
 
-// const cloudFrame = [
-//     { transform: 'translateX(10vw)', opacity: 0.8 },
-//     { transform: 'translateX(-600px)', opacity: 1 },
-// ]
-
-// const cloudTiming = {
-
-// }
-
-// cloud.animate(cloudFrame, cloudTiming)
 clouds.map((obj, index)=>{
     cloud[index].animate(obj.frame, obj.timing)
 })
