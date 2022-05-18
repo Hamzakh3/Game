@@ -1,0 +1,83 @@
+{
+ "name": "Incentives",
+ "children": [
+  {
+   "name": "Persuation",
+   "children": [
+    {
+     "name": "Due to Loss"
+    },
+    {
+     "name": "New Ideas"
+    },
+    {
+     "name": "We can mkae people",
+     "children": [
+      {"name": "Appeal to Self-interest", "value": 7074, "url":"https://www.google.com"},
+      {"name": "Appeal to their identities", "value": 7074, "url":"https://www.google.com"},
+      {"name": "Appeal to the person they want to be", "value": 7074, "url":"https://www.google.com"},
+      {"name": "Not being analytical.", "value": 7074, "url":"https://www.google.com"},
+      {"name": "Creating empathy for 1 specific person", "value": 7074, "url":"https://www.google.com"},
+      {"name": "Highlight that the idea", "value": 7074, "url":"https://www.google.com"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Influence",
+   "color": "#009900",
+   "children": [
+    {"name": "To influence other", "value": 1983},
+    {"name": "Pleasure, allaying", "value": 2047},
+    {"name": "Necessity rules the World", "value": 1375},
+    {"name": "No appeal to reason", "value": 8746},
+    {"name": "Start with something", "value": 2202},
+    {"name": "If one watches carefully", "value": 1382},
+    {"name": "Use a newspaper as an example", "value": 1629},
+    {"name": "Most of the habits", "value": 1675}
+   ]
+  },
+  {
+   "name": "Copywriting",
+   "color":"#009988",
+   "children": [
+    {"name": "Appeal to reader's self interest", "value": 1759},
+    {"name": "Ads that offer no benefit do not sell.", "value": 2165},
+    {"name": "Prvention does not sell.", "value": 586},
+    {"name": "Find the main thing that your prospect", "value": 3331},
+    {"name": "Forget about you and your proposition", "value": 772},
+    {"name": "What sells is not what your product is", "value": 3322},
+    {
+     "name": "People naturally postpone",
+     "children": [
+      {"name": "A time limited offer", "value": 721},
+      {"name": "An incentive", "value": 4294},
+      {"name": "Letting them know that delay will cost them", "value": 9800}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Storytelling",
+   "color":"#0077aa",
+   "children": [
+    {"name": "Find your audience's", "value": 8833},
+    {
+        "name": "We can make people",
+        "children": [
+            {"name": "Appeal to Self-interest", "value": 7074, "url":"https://www.google.com"},
+            {"name": "Appeal to their identities", "value": 7074, "url":"https://www.google.com"},
+            {"name": "Appeal to the person they want to be", "value": 7074, "url":"https://www.google.com"},
+            {"name": "Not being analytical.", "value": 7074, "url":"https://www.google.com"},
+            {"name": "Creating empathy for 1 specific person", "value": 7074, "url":"https://www.google.com"},
+            {"name": "Highlight that the idea", "value": 7074, "url":"https://www.google.com"}
+           ]
+       }
+   ]
+  },
+  {
+   "name": "Ask your self",
+   "url":"https://www.google.com"
+  }
+ ]
+}
